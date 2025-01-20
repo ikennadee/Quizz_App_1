@@ -1,6 +1,6 @@
 *, *::before, *::after {
   box-sizing: border-box; /* Ensures padding and border are included in element's width/height */
-  font-family: Gotham Rounded; /* Sets the font for all elements to 'Gotham Rounded' */
+  font-family: Arial; /* Sets the font for all elements to 'Gotham Rounded' */
 }
 
 :root {
